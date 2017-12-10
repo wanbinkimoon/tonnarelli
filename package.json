@@ -1,0 +1,15 @@
+{
+  "name": "tonnarelli",
+  "version": "0.0.1",
+  "description": "webpack for the static web ",
+  "main": "index.html ",
+  "repository": "git@github.com:wanbinkimoon/tonnarelli.git",
+  "author": "Nicola Bertelloni <nicola.bertelloni@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "html-loader": "^0.5.1",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
+    "webpack": "^3.10.0"
+  }
+}
